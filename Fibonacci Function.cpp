@@ -12,7 +12,7 @@ int fib (int n)
     return k3;
 }
 //Recursive Function
-int fibon(int n)
+int fib(int n)
 {
     if (n == 1 || n == 2) 
 	  return 1;
